@@ -8,3 +8,5 @@ run_MeanShift_Clustering.m --> once you have the series of peaks for each node, 
 run_H_Test.m --> estimates the H statstic for a given node, for a series of posible p_ROI values. It calls func_cmp_h.m, that requieres R to be instaled.
 
 run_RFA_GEV.m --> performs EVA following both RFA and at-site analysis for a target node. It uses func_LMOM_GEV.m and func_LMOM_GEV_ROI.m
+
+The archive containing the AM series of SWH in the Mediterranean Sea is freely available for research and can be requested by contacting francesco.deleo@unige.it
