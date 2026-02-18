@@ -1,5 +1,7 @@
 # ROI-RFA_MedSea
-This repo contains the Matlab scripts to run the analysis presented in De Leo &amp; Solari (2025). Regional Frequency Analysis of extreme waves based on Regions of Influence in the Mediterranean Sea (to be published in Ocean Engineering).
+This repo contains the Matlab scripts to run the analysis presented in:
+
+De Leo, F., & Solari, S. (2025). Regional frequency analysis of extreme waves based on regions of influence in the Mediterranean Sea. Ocean Engineering, 342, 123088.
 
 func_find_peaks.m --> is an example function for extraction of a series of peaks from a time series of significant wave heights
 
